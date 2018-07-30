@@ -86,6 +86,7 @@
                 <td>username, password</td>
             </tr>
         </table>
+        <em>*default username/password: user/user</em>
 
         <h4 align="center">Example Get Items:</h4>
         <code><?= site_url('api/get_item');?></code>
